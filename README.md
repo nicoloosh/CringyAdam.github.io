@@ -1,4 +1,4 @@
-***THIS PROJECT IS DISCONTINUED, GO TO (CringyBotSelf-Modular)[https://github.com/CringyAdam/CringyBotSelf-Modular]***
+***THIS PROJECT IS DISCONTINUED, GO TO [CringyBotSelf-Modular](https://github.com/CringyAdam/CringyBotSelf-Modular)***
 
 # CringyBotSelf
 A selfbot for discord made with &lt;3 and Discord.JS
